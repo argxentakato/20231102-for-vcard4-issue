@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "vcard4-issue",
+  "type": "module",
+  "license": "CC0",
+  "dependencies": {
+    "vcard4": "^3.1.5"
+  }
+}

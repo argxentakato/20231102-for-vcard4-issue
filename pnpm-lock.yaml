@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  vcard4:
+    specifier: ^3.1.5
+    version: 3.1.5
+
+packages:
+
+  /vcard4@3.1.5:
+    resolution: {integrity: sha512-mdX/pS2fF7uvgzdtP7K6J1cyfWWcJmpJD9Dn/mq9/WrhI9l2cWj71vTKVQCrpBUaLUBHr/vi7F/EPf/cTzCRFw==}
+    dev: false
